@@ -1,3 +1,14 @@
 <resources>
     <string name="app_name">PracticandoMockup</string>
+    <string name="by_academiamoviles">By AcademiaMóviles</string>
+    <string name="iniciar_sesion">Iniciar Sesión</string>
+    <string name="registrate">Regístrate</string>
+    <string name="email">Email:</string>
+    <string name="password">Password</string>
+    <string name="nombres_completos">Nombres Completos</string>
+    <string name="edad">Edad</string>
+    <string name="acepto_terminos_condiciones">Acepto los términos y condiciones</string>
+    <string name="u_leer_mas"><u>Leer Más</u></string>
+    <string name="mis_datos">Mis Datos</string>
+    <string name="cambiar_mi_ubicacion">Cambiar mi ubicación</string>
 </resources>
