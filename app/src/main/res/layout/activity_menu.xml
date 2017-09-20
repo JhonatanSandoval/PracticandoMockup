@@ -34,7 +34,7 @@
                 android:layout_marginEnd="2dp"
                 android:layout_marginRight="2dp"
                 android:layout_weight=".5"
-                android:textSize="@dimen/tamanio_texto_boton"
+                android:textSize="15sp"
                 android:text="@string/iniciar_sesion"
                 android:textAllCaps="false"/>
 
